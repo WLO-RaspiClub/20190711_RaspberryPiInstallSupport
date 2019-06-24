@@ -1,0 +1,2 @@
+# 20190711_RaspberryPiInstallSupport
+2019年7月11日開催予定の「WLOラズパイ倶楽部＋α 最新RaspberryPiインストールサポート」のリポジトリ
